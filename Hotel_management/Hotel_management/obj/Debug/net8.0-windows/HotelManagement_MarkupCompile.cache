@@ -1,0 +1,20 @@
+﻿HotelManagement
+
+
+winexe
+C#
+.cs
+D:\FPT University - K19 SE\Fifth semester - SE - NET\PRN212 - tinhnt36\VS2002 code\Hotel_management\Hotel_management\obj\Debug\net8.0-windows\
+HotelManagement
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+D:\FPT University - K19 SE\Fifth semester - SE - NET\PRN212 - tinhnt36\VS2002 code\Hotel_management\Hotel_management\App.xaml
+14-1464109872
+
+25-1524041358
+244-1214746298
+MainWindow.xaml;ViewModel\Login.xaml;Views\AdminHome.xaml;Views\AdminReports.xaml;Views\CheckRoomAvailabilityControl.xaml;Views\CreateBookingForCustomer.xaml;Views\CreateBookingForStaff.xaml;Views\CustomerHome.xaml;Views\ManageRoomsControl.xaml;Views\ManageUsersControl.xaml;Views\Profile.xaml;Views\StaffHome.xaml;Views\ViewBookingsControl.xaml;Views\ViewMyBookings.xaml;
+
+False
+

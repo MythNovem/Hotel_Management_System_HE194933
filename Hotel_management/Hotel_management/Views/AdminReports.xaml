@@ -1,0 +1,16 @@
+﻿<UserControl x:Class="HotelManagement.Views.AdminReports"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" Height="Auto" Width="Auto">
+    <StackPanel Margin="20">
+        <TextBlock Text="Reports Dashboard" FontSize="20" FontWeight="Bold" Margin="0 0 0 20"/>
+
+        <Button Content="View All Bookings" Click="ViewAllBookings_Click" Width="180" Margin="0 5"/>
+        <Button Content="Room Usage Stats" Click="RoomUsageStats_Click" Width="180" Margin="0 5"/>
+        <Button Content="Revenue Report" Click="RevenueReport_Click" Width="180" Margin="0 5"/>
+
+        <DataGrid x:Name="dgReport" AutoGenerateColumns="True" Margin="0 20 0 0" />
+    </StackPanel>
+</UserControl>

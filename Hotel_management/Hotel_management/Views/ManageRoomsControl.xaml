@@ -1,0 +1,50 @@
+﻿<!-- ManageRoomsControl.xaml -->
+<UserControl x:Class="HotelManagement.Views.ManageRoomsControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" Height="Auto" Width="Auto">
+    <StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="0 0 0 10">
+            <StackPanel Orientation="Vertical" Margin="5">
+                <TextBlock Text="Room Number" FontWeight="Bold"/>
+                <TextBox x:Name="txtRoomNumber" Width="150"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Vertical" Margin="5">
+                <TextBlock Text="Room Type" FontWeight="Bold"/>
+                <TextBox x:Name="txtRoomType" Width="150"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Vertical" Margin="5">
+                <TextBlock Text="Price" FontWeight="Bold"/>
+                <TextBox x:Name="txtPrice" Width="100"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Vertical" Margin="5">
+                <Button Content="Add Room" Click="AddRoom_Click" Margin="0 0 0 5" VerticalAlignment="Bottom"/>
+                <Button Content="Update Room" x:Name="btnUpdateRoom" Click="UpdateRoom_Click" Visibility="Collapsed" VerticalAlignment="Bottom"/>
+            </StackPanel>
+        </StackPanel>
+
+        <DataGrid x:Name="dgRooms" AutoGenerateColumns="False" CanUserAddRows="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding RoomId}" Width="50"/>
+                <DataGridTextColumn Header="Room Number" Binding="{Binding RoomNumber}" Width="100"/>
+                <DataGridTextColumn Header="Type" Binding="{Binding RoomType}" Width="150"/>
+                <DataGridTextColumn Header="Price" Binding="{Binding Price}" Width="100"/>
+                <DataGridTemplateColumn Header="Actions" Width="150">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                <Button Content="Edit" Click="EditRoom_Click" Tag="{Binding RoomId}" Background="LightBlue" Margin="2"/>
+                                <Button Content="Delete" Click="DeleteRoom_Click" Tag="{Binding RoomId}" Background="Tomato" Margin="2"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </StackPanel>
+</UserControl>

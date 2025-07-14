@@ -1,0 +1,32 @@
+﻿<UserControl x:Class="HotelManagement.Views.CheckRoomAvailabilityControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" Height="Auto" Width="Auto">
+
+    <StackPanel Margin="10">
+        <StackPanel Orientation="Horizontal" Margin="0 0 0 10">
+            <StackPanel Orientation="Vertical" Margin="5">
+                <TextBlock Text="Check-in Date" FontWeight="Bold"/>
+                <DatePicker x:Name="dpCheckIn" Width="150"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Vertical" Margin="5">
+                <TextBlock Text="Check-out Date" FontWeight="Bold"/>
+                <DatePicker x:Name="dpCheckOut" Width="150"/>
+            </StackPanel>
+
+            <Button Content="Check Availability" Click="CheckAvailability_Click" Margin="10 20 0 0"/>
+        </StackPanel>
+
+        <DataGrid x:Name="dgAvailableRooms" AutoGenerateColumns="False" CanUserAddRows="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Room ID" Binding="{Binding RoomId}" Width="80"/>
+                <DataGridTextColumn Header="Room Number" Binding="{Binding RoomNumber}" Width="120"/>
+                <DataGridTextColumn Header="Type" Binding="{Binding RoomType}" Width="150"/>
+                <DataGridTextColumn Header="Price" Binding="{Binding Price}" Width="100"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </StackPanel>
+</UserControl>
