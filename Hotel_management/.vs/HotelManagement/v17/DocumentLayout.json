@@ -1,0 +1,616 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|d:\\fpt university - k19 se\\fifth semester - se - net\\prn212 - tinhnt36\\vs2002 code\\hotel_management\\hotel_management\\views\\adminhome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|solutionrelative:hotel_management\\views\\adminhome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|d:\\fpt university - k19 se\\fifth semester - se - net\\prn212 - tinhnt36\\vs2002 code\\hotel_management\\hotel_management\\views\\adminreports.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|solutionrelative:hotel_management\\views\\adminreports.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|d:\\fpt university - k19 se\\fifth semester - se - net\\prn212 - tinhnt36\\vs2002 code\\hotel_management\\hotel_management\\views\\adminreports.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|solutionrelative:hotel_management\\views\\adminreports.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|d:\\fpt university - k19 se\\fifth semester - se - net\\prn212 - tinhnt36\\vs2002 code\\hotel_management\\hotel_management\\views\\staffhome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|solutionrelative:hotel_management\\views\\staffhome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|d:\\fpt university - k19 se\\fifth semester - se - net\\prn212 - tinhnt36\\vs2002 code\\hotel_management\\hotel_management\\views\\staffhome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|solutionrelative:hotel_management\\views\\staffhome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|d:\\fpt university - k19 se\\fifth semester - se - net\\prn212 - tinhnt36\\vs2002 code\\hotel_management\\hotel_management\\views\\adminhome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|solutionrelative:hotel_management\\views\\adminhome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|d:\\fpt university - k19 se\\fifth semester - se - net\\prn212 - tinhnt36\\vs2002 code\\hotel_management\\hotel_management\\views\\profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|solutionrelative:hotel_management\\views\\profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|d:\\fpt university - k19 se\\fifth semester - se - net\\prn212 - tinhnt36\\vs2002 code\\hotel_management\\hotel_management\\views\\profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|solutionrelative:hotel_management\\views\\profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|d:\\fpt university - k19 se\\fifth semester - se - net\\prn212 - tinhnt36\\vs2002 code\\hotel_management\\hotel_management\\views\\customerhome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|solutionrelative:hotel_management\\views\\customerhome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|d:\\fpt university - k19 se\\fifth semester - se - net\\prn212 - tinhnt36\\vs2002 code\\hotel_management\\hotel_management\\views\\viewmybookings.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|solutionrelative:hotel_management\\views\\viewmybookings.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|d:\\fpt university - k19 se\\fifth semester - se - net\\prn212 - tinhnt36\\vs2002 code\\hotel_management\\hotel_management\\views\\customerhome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|solutionrelative:hotel_management\\views\\customerhome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|d:\\fpt university - k19 se\\fifth semester - se - net\\prn212 - tinhnt36\\vs2002 code\\hotel_management\\hotel_management\\views\\viewmybookings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|solutionrelative:hotel_management\\views\\viewmybookings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|d:\\fpt university - k19 se\\fifth semester - se - net\\prn212 - tinhnt36\\vs2002 code\\hotel_management\\hotel_management\\viewmodel\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|solutionrelative:hotel_management\\viewmodel\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|d:\\fpt university - k19 se\\fifth semester - se - net\\prn212 - tinhnt36\\vs2002 code\\hotel_management\\hotel_management\\viewmodel\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|solutionrelative:hotel_management\\viewmodel\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|d:\\fpt university - k19 se\\fifth semester - se - net\\prn212 - tinhnt36\\vs2002 code\\hotel_management\\hotel_management\\views\\createbookingforcustomer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|solutionrelative:hotel_management\\views\\createbookingforcustomer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|d:\\fpt university - k19 se\\fifth semester - se - net\\prn212 - tinhnt36\\vs2002 code\\hotel_management\\hotel_management\\views\\createbookingforcustomer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|solutionrelative:hotel_management\\views\\createbookingforcustomer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|d:\\fpt university - k19 se\\fifth semester - se - net\\prn212 - tinhnt36\\vs2002 code\\hotel_management\\hotel_management\\views\\createbookingforstaff.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|solutionrelative:hotel_management\\views\\createbookingforstaff.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|d:\\fpt university - k19 se\\fifth semester - se - net\\prn212 - tinhnt36\\vs2002 code\\hotel_management\\hotel_management\\views\\checkroomavailabilitycontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|solutionrelative:hotel_management\\views\\checkroomavailabilitycontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|d:\\fpt university - k19 se\\fifth semester - se - net\\prn212 - tinhnt36\\vs2002 code\\hotel_management\\hotel_management\\views\\createbookingforstaff.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|solutionrelative:hotel_management\\views\\createbookingforstaff.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|d:\\fpt university - k19 se\\fifth semester - se - net\\prn212 - tinhnt36\\vs2002 code\\hotel_management\\hotel_management\\views\\checkroomavailabilitycontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|solutionrelative:hotel_management\\views\\checkroomavailabilitycontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|d:\\fpt university - k19 se\\fifth semester - se - net\\prn212 - tinhnt36\\vs2002 code\\hotel_management\\hotel_management\\views\\viewbookingscontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|solutionrelative:hotel_management\\views\\viewbookingscontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|d:\\fpt university - k19 se\\fifth semester - se - net\\prn212 - tinhnt36\\vs2002 code\\hotel_management\\hotel_management\\views\\viewbookingscontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|solutionrelative:hotel_management\\views\\viewbookingscontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|d:\\fpt university - k19 se\\fifth semester - se - net\\prn212 - tinhnt36\\vs2002 code\\hotel_management\\hotel_management\\views\\manageuserscontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|solutionrelative:hotel_management\\views\\manageuserscontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|d:\\fpt university - k19 se\\fifth semester - se - net\\prn212 - tinhnt36\\vs2002 code\\hotel_management\\hotel_management\\views\\manageroomscontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|solutionrelative:hotel_management\\views\\manageroomscontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|d:\\fpt university - k19 se\\fifth semester - se - net\\prn212 - tinhnt36\\vs2002 code\\hotel_management\\hotel_management\\views\\manageroomscontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|solutionrelative:hotel_management\\views\\manageroomscontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|d:\\fpt university - k19 se\\fifth semester - se - net\\prn212 - tinhnt36\\vs2002 code\\hotel_management\\hotel_management\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|solutionrelative:hotel_management\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|d:\\fpt university - k19 se\\fifth semester - se - net\\prn212 - tinhnt36\\vs2002 code\\hotel_management\\hotel_management\\views\\manageuserscontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|solutionrelative:hotel_management\\views\\manageuserscontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|d:\\fpt university - k19 se\\fifth semester - se - net\\prn212 - tinhnt36\\vs2002 code\\hotel_management\\hotel_management\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|solutionrelative:hotel_management\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|d:\\fpt university - k19 se\\fifth semester - se - net\\prn212 - tinhnt36\\vs2002 code\\hotel_management\\hotel_management\\viewmodel\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\HotelManagement.csproj|solutionrelative:hotel_management\\viewmodel\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\Hotel_management.csproj|d:\\fpt university - k19 se\\fifth semester - se - net\\prn212 - tinhnt36\\vs2002 code\\hotel_management\\hotel_management\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\Hotel_management.csproj|solutionrelative:hotel_management\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\Hotel_management.csproj|d:\\fpt university - k19 se\\fifth semester - se - net\\prn212 - tinhnt36\\vs2002 code\\hotel_management\\hotel_management\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1DFC5B-0759-471A-B041-D29B3D5BF40B}|Hotel_management\\Hotel_management.csproj|solutionrelative:hotel_management\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 27,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminReports.xaml.cs",
+              "DocumentMoniker": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\AdminReports.xaml.cs",
+              "RelativeDocumentMoniker": "Hotel_management\\Views\\AdminReports.xaml.cs",
+              "ToolTip": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\AdminReports.xaml.cs",
+              "RelativeToolTip": "Hotel_management\\Views\\AdminReports.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T22:38:46.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminReports.xaml",
+              "DocumentMoniker": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\AdminReports.xaml",
+              "RelativeDocumentMoniker": "Hotel_management\\Views\\AdminReports.xaml",
+              "ToolTip": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\AdminReports.xaml",
+              "RelativeToolTip": "Hotel_management\\Views\\AdminReports.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T22:38:27.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Profile.xaml.cs",
+              "DocumentMoniker": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\Profile.xaml.cs",
+              "RelativeDocumentMoniker": "Hotel_management\\Views\\Profile.xaml.cs",
+              "ToolTip": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\Profile.xaml.cs",
+              "RelativeToolTip": "Hotel_management\\Views\\Profile.xaml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwDMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T22:29:47.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Profile.xaml",
+              "DocumentMoniker": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\Profile.xaml",
+              "RelativeDocumentMoniker": "Hotel_management\\Views\\Profile.xaml",
+              "ToolTip": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\Profile.xaml",
+              "RelativeToolTip": "Hotel_management\\Views\\Profile.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T22:29:41.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StaffHome.xaml",
+              "DocumentMoniker": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\StaffHome.xaml",
+              "RelativeDocumentMoniker": "Hotel_management\\Views\\StaffHome.xaml",
+              "ToolTip": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\StaffHome.xaml",
+              "RelativeToolTip": "Hotel_management\\Views\\StaffHome.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T21:10:03.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StaffHome.xaml.cs",
+              "DocumentMoniker": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\StaffHome.xaml.cs",
+              "RelativeDocumentMoniker": "Hotel_management\\Views\\StaffHome.xaml.cs",
+              "ToolTip": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\StaffHome.xaml.cs",
+              "RelativeToolTip": "Hotel_management\\Views\\StaffHome.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T21:11:29.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminHome.xaml.cs",
+              "DocumentMoniker": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\AdminHome.xaml.cs",
+              "RelativeDocumentMoniker": "Hotel_management\\Views\\AdminHome.xaml.cs",
+              "ToolTip": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\AdminHome.xaml.cs",
+              "RelativeToolTip": "Hotel_management\\Views\\AdminHome.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIAwwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T21:17:58.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerHome.xaml.cs",
+              "DocumentMoniker": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\CustomerHome.xaml.cs",
+              "RelativeDocumentMoniker": "Hotel_management\\Views\\CustomerHome.xaml.cs",
+              "ToolTip": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\CustomerHome.xaml.cs",
+              "RelativeToolTip": "Hotel_management\\Views\\CustomerHome.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T21:11:47.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminHome.xaml",
+              "DocumentMoniker": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\AdminHome.xaml",
+              "RelativeDocumentMoniker": "Hotel_management\\Views\\AdminHome.xaml",
+              "ToolTip": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\AdminHome.xaml",
+              "RelativeToolTip": "Hotel_management\\Views\\AdminHome.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T21:17:20.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ViewMyBookings.xaml.cs",
+              "DocumentMoniker": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\ViewMyBookings.xaml.cs",
+              "RelativeDocumentMoniker": "Hotel_management\\Views\\ViewMyBookings.xaml.cs",
+              "ToolTip": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\ViewMyBookings.xaml.cs",
+              "RelativeToolTip": "Hotel_management\\Views\\ViewMyBookings.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T22:24:30.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerHome.xaml",
+              "DocumentMoniker": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\CustomerHome.xaml",
+              "RelativeDocumentMoniker": "Hotel_management\\Views\\CustomerHome.xaml",
+              "ToolTip": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\CustomerHome.xaml",
+              "RelativeToolTip": "Hotel_management\\Views\\CustomerHome.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T21:10:26.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ViewMyBookings.xaml",
+              "DocumentMoniker": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\ViewMyBookings.xaml",
+              "RelativeDocumentMoniker": "Hotel_management\\Views\\ViewMyBookings.xaml",
+              "ToolTip": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\ViewMyBookings.xaml",
+              "RelativeToolTip": "Hotel_management\\Views\\ViewMyBookings.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T22:24:22.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Session.cs",
+              "DocumentMoniker": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\ViewModel\\Session.cs",
+              "RelativeDocumentMoniker": "Hotel_management\\ViewModel\\Session.cs",
+              "ToolTip": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\ViewModel\\Session.cs",
+              "RelativeToolTip": "Hotel_management\\ViewModel\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T22:20:57.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateBookingForCustomer.xaml.cs",
+              "DocumentMoniker": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\CreateBookingForCustomer.xaml.cs",
+              "RelativeDocumentMoniker": "Hotel_management\\Views\\CreateBookingForCustomer.xaml.cs",
+              "ToolTip": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\CreateBookingForCustomer.xaml.cs",
+              "RelativeToolTip": "Hotel_management\\Views\\CreateBookingForCustomer.xaml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T22:18:23.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateBookingForCustomer.xaml",
+              "DocumentMoniker": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\CreateBookingForCustomer.xaml",
+              "RelativeDocumentMoniker": "Hotel_management\\Views\\CreateBookingForCustomer.xaml",
+              "ToolTip": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\CreateBookingForCustomer.xaml",
+              "RelativeToolTip": "Hotel_management\\Views\\CreateBookingForCustomer.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T22:17:54.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\ViewModel\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "Hotel_management\\ViewModel\\Login.xaml.cs",
+              "ToolTip": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\ViewModel\\Login.xaml.cs",
+              "RelativeToolTip": "Hotel_management\\ViewModel\\Login.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwDsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T20:48:36.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateBookingForStaff.xaml.cs",
+              "DocumentMoniker": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\CreateBookingForStaff.xaml.cs",
+              "RelativeDocumentMoniker": "Hotel_management\\Views\\CreateBookingForStaff.xaml.cs",
+              "ToolTip": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\CreateBookingForStaff.xaml.cs",
+              "RelativeToolTip": "Hotel_management\\Views\\CreateBookingForStaff.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T22:09:47.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CheckRoomAvailabilityControl.xaml.cs",
+              "DocumentMoniker": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\CheckRoomAvailabilityControl.xaml.cs",
+              "RelativeDocumentMoniker": "Hotel_management\\Views\\CheckRoomAvailabilityControl.xaml.cs",
+              "ToolTip": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\CheckRoomAvailabilityControl.xaml.cs",
+              "RelativeToolTip": "Hotel_management\\Views\\CheckRoomAvailabilityControl.xaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwCkAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T22:03:55.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateBookingForStaff.xaml",
+              "DocumentMoniker": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\CreateBookingForStaff.xaml",
+              "RelativeDocumentMoniker": "Hotel_management\\Views\\CreateBookingForStaff.xaml",
+              "ToolTip": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\CreateBookingForStaff.xaml",
+              "RelativeToolTip": "Hotel_management\\Views\\CreateBookingForStaff.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T22:09:37.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CheckRoomAvailabilityControl.xaml",
+              "DocumentMoniker": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\CheckRoomAvailabilityControl.xaml",
+              "RelativeDocumentMoniker": "Hotel_management\\Views\\CheckRoomAvailabilityControl.xaml",
+              "ToolTip": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\CheckRoomAvailabilityControl.xaml",
+              "RelativeToolTip": "Hotel_management\\Views\\CheckRoomAvailabilityControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T22:02:56.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ViewBookingsControl.xaml.cs",
+              "DocumentMoniker": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\ViewBookingsControl.xaml.cs",
+              "RelativeDocumentMoniker": "Hotel_management\\Views\\ViewBookingsControl.xaml.cs",
+              "ToolTip": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\ViewBookingsControl.xaml.cs",
+              "RelativeToolTip": "Hotel_management\\Views\\ViewBookingsControl.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T21:59:39.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ViewBookingsControl.xaml",
+              "DocumentMoniker": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\ViewBookingsControl.xaml",
+              "RelativeDocumentMoniker": "Hotel_management\\Views\\ViewBookingsControl.xaml",
+              "ToolTip": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\ViewBookingsControl.xaml",
+              "RelativeToolTip": "Hotel_management\\Views\\ViewBookingsControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T21:59:15.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ManageRoomsControl.xaml.cs",
+              "DocumentMoniker": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\ManageRoomsControl.xaml.cs",
+              "RelativeDocumentMoniker": "Hotel_management\\Views\\ManageRoomsControl.xaml.cs",
+              "ToolTip": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\ManageRoomsControl.xaml.cs",
+              "RelativeToolTip": "Hotel_management\\Views\\ManageRoomsControl.xaml.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAA+wH8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T21:46:28.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ManageUsersControl.xaml.cs",
+              "DocumentMoniker": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\ManageUsersControl.xaml.cs",
+              "RelativeDocumentMoniker": "Hotel_management\\Views\\ManageUsersControl.xaml.cs",
+              "ToolTip": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\ManageUsersControl.xaml.cs",
+              "RelativeToolTip": "Hotel_management\\Views\\ManageUsersControl.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T21:27:13.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ManageRoomsControl.xaml",
+              "DocumentMoniker": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\ManageRoomsControl.xaml",
+              "RelativeDocumentMoniker": "Hotel_management\\Views\\ManageRoomsControl.xaml",
+              "ToolTip": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\ManageRoomsControl.xaml",
+              "RelativeToolTip": "Hotel_management\\Views\\ManageRoomsControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T21:44:11.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ManageUsersControl.xaml",
+              "DocumentMoniker": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\ManageUsersControl.xaml",
+              "RelativeDocumentMoniker": "Hotel_management\\Views\\ManageUsersControl.xaml",
+              "ToolTip": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Views\\ManageUsersControl.xaml",
+              "RelativeToolTip": "Hotel_management\\Views\\ManageUsersControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T21:26:57.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Validator.cs",
+              "RelativeDocumentMoniker": "Hotel_management\\Validator.cs",
+              "ToolTip": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\Validator.cs",
+              "RelativeToolTip": "Hotel_management\\Validator.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAiwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T20:52:57.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\App.xaml",
+              "RelativeDocumentMoniker": "Hotel_management\\App.xaml",
+              "ToolTip": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\App.xaml",
+              "RelativeToolTip": "Hotel_management\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T20:51:06.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\ViewModel\\Login.xaml",
+              "RelativeDocumentMoniker": "Hotel_management\\ViewModel\\Login.xaml",
+              "ToolTip": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\ViewModel\\Login.xaml",
+              "RelativeToolTip": "Hotel_management\\ViewModel\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T20:48:15.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Hotel_management\\MainWindow.xaml",
+              "ToolTip": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\MainWindow.xaml",
+              "RelativeToolTip": "Hotel_management\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T20:28:51.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Hotel_management\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\FPT University - K19 SE\\Fifth semester - SE - NET\\PRN212 - tinhnt36\\VS2002 code\\Hotel_management\\Hotel_management\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Hotel_management\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T20:28:30.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

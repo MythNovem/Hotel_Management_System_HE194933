@@ -1,0 +1,49 @@
+﻿<!-- ManageUsersControl.xaml -->
+<UserControl x:Class="HotelManagement.Views.ManageUsersControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" Height="Auto" Width="Auto">
+    <StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="0 0 0 10">
+            <StackPanel Orientation="Vertical" Margin="5">
+                <TextBlock Text="Username" FontWeight="Bold"/>
+                <TextBox x:Name="txtUsername" Width="150"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Vertical" Margin="5">
+                <TextBlock Text="Password" FontWeight="Bold"/>
+                <PasswordBox x:Name="txtPassword" Width="150"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Vertical" Margin="5">
+                <TextBlock Text="Role" FontWeight="Bold"/>
+                <ComboBox x:Name="cbRole" Width="120"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Vertical" Margin="5">
+                <Button Content="Add User" Click="AddUser_Click" Margin="0 0 0 5" VerticalAlignment="Bottom"/>
+                <Button Content="Update User" x:Name="btnUpdate" Click="UpdateUser_Click" Margin="0" VerticalAlignment="Bottom" Visibility="Collapsed"/>
+            </StackPanel>
+        </StackPanel>
+
+        <DataGrid x:Name="dgUsers" AutoGenerateColumns="False" CanUserAddRows="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding UserId}" Width="50"/>
+                <DataGridTextColumn Header="Username" Binding="{Binding Username}" Width="150"/>
+                <DataGridTextColumn Header="Role" Binding="{Binding Role.RoleName}" Width="100"/>
+                <DataGridTemplateColumn Header="Actions" Width="150">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                <Button Content="Edit" Click="EditUser_Click" Tag="{Binding UserId}" Background="LightBlue" Margin="2"/>
+                                <Button Content="Delete" Click="DeleteUser_Click" Tag="{Binding UserId}" Background="Tomato" Margin="2"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </StackPanel>
+</UserControl>
